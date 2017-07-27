@@ -1,0 +1,9 @@
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso\wfcurso\bin\Debug\wfcurso.exe.config
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso\wfcurso\bin\Debug\wfcurso.exe
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso\wfcurso\bin\Debug\wfcurso.pdb
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso\wfcurso\obj\Debug\wfcurso.csprojResolveAssemblyReference.cache
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso\wfcurso\obj\Debug\wfcurso.Form1.resources
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso\wfcurso\obj\Debug\wfcurso.Properties.Resources.resources
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso\wfcurso\obj\Debug\wfcurso.csproj.GenerateResource.Cache
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso\wfcurso\obj\Debug\wfcurso.exe
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso\wfcurso\obj\Debug\wfcurso.pdb

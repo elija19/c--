@@ -1,0 +1,9 @@
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso2\wfcurso2\bin\Debug\wfcurso2.exe.config
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso2\wfcurso2\bin\Debug\wfcurso2.exe
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso2\wfcurso2\bin\Debug\wfcurso2.pdb
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso2\wfcurso2\obj\Debug\wfcurso2.Form1.resources
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso2\wfcurso2\obj\Debug\wfcurso2.Properties.Resources.resources
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso2\wfcurso2\obj\Debug\wfcurso2.csproj.GenerateResource.Cache
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso2\wfcurso2\obj\Debug\wfcurso2.exe
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso2\wfcurso2\obj\Debug\wfcurso2.pdb
+c:\users\elija\documents\visual studio 2017\Projects\wfcurso2\wfcurso2\obj\Debug\wfcurso2.csprojResolveAssemblyReference.cache
