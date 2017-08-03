@@ -1,0 +1,5 @@
+c:\users\elija\documents\visual studio 2017\Projects\Métodosqueretornanunvalor\Métodosqueretornanunvalor\bin\Debug\Métodosqueretornanunvalor.exe.config
+c:\users\elija\documents\visual studio 2017\Projects\Métodosqueretornanunvalor\Métodosqueretornanunvalor\bin\Debug\Métodosqueretornanunvalor.exe
+c:\users\elija\documents\visual studio 2017\Projects\Métodosqueretornanunvalor\Métodosqueretornanunvalor\bin\Debug\Métodosqueretornanunvalor.pdb
+c:\users\elija\documents\visual studio 2017\Projects\Métodosqueretornanunvalor\Métodosqueretornanunvalor\obj\Debug\Métodosqueretornanunvalor.exe
+c:\users\elija\documents\visual studio 2017\Projects\Métodosqueretornanunvalor\Métodosqueretornanunvalor\obj\Debug\Métodosqueretornanunvalor.pdb

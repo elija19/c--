@@ -1,0 +1,6 @@
+c:\users\elija\documents\visual studio 2017\Projects\Métodosqueejecutan\Métodosqueejecutan\bin\Debug\Métodosqueejecutan.exe.config
+c:\users\elija\documents\visual studio 2017\Projects\Métodosqueejecutan\Métodosqueejecutan\bin\Debug\Métodosqueejecutan.exe
+c:\users\elija\documents\visual studio 2017\Projects\Métodosqueejecutan\Métodosqueejecutan\bin\Debug\Métodosqueejecutan.pdb
+c:\users\elija\documents\visual studio 2017\Projects\Métodosqueejecutan\Métodosqueejecutan\obj\Debug\Métodosqueejecutan.csprojResolveAssemblyReference.cache
+c:\users\elija\documents\visual studio 2017\Projects\Métodosqueejecutan\Métodosqueejecutan\obj\Debug\Métodosqueejecutan.exe
+c:\users\elija\documents\visual studio 2017\Projects\Métodosqueejecutan\Métodosqueejecutan\obj\Debug\Métodosqueejecutan.pdb

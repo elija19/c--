@@ -1,0 +1,6 @@
+c:\users\elija\documents\visual studio 2017\Projects\Librodedeitel\Librodedeitel\bin\Debug\Librodedeitel.exe.config
+c:\users\elija\documents\visual studio 2017\Projects\Librodedeitel\Librodedeitel\bin\Debug\Librodedeitel.exe
+c:\users\elija\documents\visual studio 2017\Projects\Librodedeitel\Librodedeitel\bin\Debug\Librodedeitel.pdb
+c:\users\elija\documents\visual studio 2017\Projects\Librodedeitel\Librodedeitel\obj\Debug\Librodedeitel.csprojResolveAssemblyReference.cache
+c:\users\elija\documents\visual studio 2017\Projects\Librodedeitel\Librodedeitel\obj\Debug\Librodedeitel.exe
+c:\users\elija\documents\visual studio 2017\Projects\Librodedeitel\Librodedeitel\obj\Debug\Librodedeitel.pdb

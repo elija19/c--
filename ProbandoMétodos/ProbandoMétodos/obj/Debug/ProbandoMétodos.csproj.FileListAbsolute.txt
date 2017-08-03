@@ -1,0 +1,6 @@
+c:\users\elija\documents\visual studio 2017\Projects\ProbandoMétodos\ProbandoMétodos\obj\Debug\ProbandoMétodos.csprojResolveAssemblyReference.cache
+c:\users\elija\documents\visual studio 2017\Projects\ProbandoMétodos\ProbandoMétodos\bin\Debug\ProbandoMétodos.exe.config
+c:\users\elija\documents\visual studio 2017\Projects\ProbandoMétodos\ProbandoMétodos\bin\Debug\ProbandoMétodos.exe
+c:\users\elija\documents\visual studio 2017\Projects\ProbandoMétodos\ProbandoMétodos\bin\Debug\ProbandoMétodos.pdb
+c:\users\elija\documents\visual studio 2017\Projects\ProbandoMétodos\ProbandoMétodos\obj\Debug\ProbandoMétodos.exe
+c:\users\elija\documents\visual studio 2017\Projects\ProbandoMétodos\ProbandoMétodos\obj\Debug\ProbandoMétodos.pdb

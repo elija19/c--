@@ -1,0 +1,6 @@
+c:\users\elija\documents\visual studio 2017\Projects\métodosprueba\métodosprueba\bin\Debug\métodosprueba.exe.config
+c:\users\elija\documents\visual studio 2017\Projects\métodosprueba\métodosprueba\bin\Debug\métodosprueba.exe
+c:\users\elija\documents\visual studio 2017\Projects\métodosprueba\métodosprueba\bin\Debug\métodosprueba.pdb
+c:\users\elija\documents\visual studio 2017\Projects\métodosprueba\métodosprueba\obj\Debug\métodosprueba.csprojResolveAssemblyReference.cache
+c:\users\elija\documents\visual studio 2017\Projects\métodosprueba\métodosprueba\obj\Debug\métodosprueba.exe
+c:\users\elija\documents\visual studio 2017\Projects\métodosprueba\métodosprueba\obj\Debug\métodosprueba.pdb

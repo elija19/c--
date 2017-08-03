@@ -1,0 +1,9 @@
+c:\users\elija\documents\visual studio 2017\Projects\pila\pila\bin\Debug\pila.exe.config
+c:\users\elija\documents\visual studio 2017\Projects\pila\pila\bin\Debug\pila.exe
+c:\users\elija\documents\visual studio 2017\Projects\pila\pila\bin\Debug\pila.pdb
+c:\users\elija\documents\visual studio 2017\Projects\pila\pila\obj\Debug\pila.csprojResolveAssemblyReference.cache
+c:\users\elija\documents\visual studio 2017\Projects\pila\pila\obj\Debug\pila.Form1.resources
+c:\users\elija\documents\visual studio 2017\Projects\pila\pila\obj\Debug\pila.Properties.Resources.resources
+c:\users\elija\documents\visual studio 2017\Projects\pila\pila\obj\Debug\pila.csproj.GenerateResource.Cache
+c:\users\elija\documents\visual studio 2017\Projects\pila\pila\obj\Debug\pila.exe
+c:\users\elija\documents\visual studio 2017\Projects\pila\pila\obj\Debug\pila.pdb

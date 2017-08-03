@@ -1,0 +1,5 @@
+c:\users\elija\documents\visual studio 2017\Projects\Métodosquerecibenvalores\Métodosquerecibenvalores\bin\Debug\Métodosquerecibenvalores.exe.config
+c:\users\elija\documents\visual studio 2017\Projects\Métodosquerecibenvalores\Métodosquerecibenvalores\bin\Debug\Métodosquerecibenvalores.exe
+c:\users\elija\documents\visual studio 2017\Projects\Métodosquerecibenvalores\Métodosquerecibenvalores\bin\Debug\Métodosquerecibenvalores.pdb
+c:\users\elija\documents\visual studio 2017\Projects\Métodosquerecibenvalores\Métodosquerecibenvalores\obj\Debug\Métodosquerecibenvalores.exe
+c:\users\elija\documents\visual studio 2017\Projects\Métodosquerecibenvalores\Métodosquerecibenvalores\obj\Debug\Métodosquerecibenvalores.pdb
